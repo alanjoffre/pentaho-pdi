@@ -1,0 +1,12 @@
+Pentaho - PDI
+
+É necessário ter o Java JDK instalado no equipamento.
+
+Faça o download do Pentaho - PDI: 
+https://www.hitachivantara.com/en-us/products/pentaho-plus-platform/data-integration-analytics/pentaho-community-edition.html
+
+Procure pelo arquivo mais atualizado: pdi-ce-9.4.0.0-343.zip - Pentaho Data Integration (Base Install)
+
+Adicione as seguintes variáveis de ambiente: PENTAHO_JAVA e PENTAHO_JAVA_HOME
+
+Execute o arquivo: SpoonConsole.bat
