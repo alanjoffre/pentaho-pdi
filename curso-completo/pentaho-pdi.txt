@@ -7,6 +7,10 @@ https://www.hitachivantara.com/en-us/products/pentaho-plus-platform/data-integra
 
 Procure pelo arquivo mais atualizado: pdi-ce-9.4.0.0-343.zip - Pentaho Data Integration (Base Install)
 
-Adicione as seguintes variáveis de ambiente: PENTAHO_JAVA e PENTAHO_JAVA_HOME
+Adicione as seguintes variáveis de ambiente: 
+
+PENTAHO_JAVA:C:\java\jdk-21\bin\java.exe
+PENTAHO_JAVA_HOME:C:\java\jdk-21
+HADOOP_HOME: C:\hadoop
 
 Execute o arquivo: SpoonConsole.bat
